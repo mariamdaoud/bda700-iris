@@ -1,0 +1,5 @@
+Iris Classification App
+A Streamlit application that predicts Iris flower species using a machine learning model.
+
+Run locally
+pip install -r requirements.txt streamlit run app.py
